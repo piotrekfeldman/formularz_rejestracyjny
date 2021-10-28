@@ -1,0 +1,35 @@
+form {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+  }
+  
+
+   label.form-check-label:nth-child(2) {
+    padding-right: 20%;
+
+  } 
+
+  #passwordHelpBlock {
+      padding-bottom: 1%;
+  }
+
+  #inputCity{
+    margin-bottom: 2%;
+  }
+
+
+  div.form-check:nth-child(7) > label:nth-child(2) > a:nth-child(1) {
+    margin-left: 6px;
+    color: blue;
+    text-decoration: none;
+    }
+
+    div.form-check:nth-child(8) > label:nth-child(2) {
+      margin-bottom:15px;
+    }
+
+    
+    div.form-check:nth-child(1) > div:nth-child(1) {
+      text-align: left;
+    }
