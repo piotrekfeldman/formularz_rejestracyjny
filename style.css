@@ -5,10 +5,10 @@ form {
   }
   
 
-  label.form-check-label:nth-child(2) {
+   label.form-check-label:nth-child(2) {
     padding-right: 20%;
 
-  }
+  } 
 
   #passwordHelpBlock {
       padding-bottom: 1%;
